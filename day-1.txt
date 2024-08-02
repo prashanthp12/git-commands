@@ -1,0 +1,38 @@
+git commands
+
+ ==> we need to create a repository
+
+ ==> clone that repository using this command 
+                                         => git clone git-url
+
+==> create a file
+ 
+ ==> git add . 
+              ==> this  command to add all the files
+
+ ==> git add filename 
+                ==>  this command to add specific file name
+
+ ==> git commit - m "commit message" 
+
+                  ==> to commit your changes (staging to local repository)
+
+==> git push
+
+            ==> this command will push your local code into git hub                 
+
+
+                        create a branch commands
+
+                        ==> git branch branchname
+                                                ==> by using this command we can create branch
+
+                        ==> git branch
+                                       ==> by using this command it will show all the branches                       
+
+                         ==> git chcekout branchname
+                                                 ==> by using this command we can checkout to created branch                       
+
+
+                         ==> git checkout -b branchname
+                                                     ==> this command will create branch and parallely checkoutv to that particular branch                        
