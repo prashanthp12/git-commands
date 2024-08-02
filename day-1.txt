@@ -45,4 +45,4 @@ if you want to combine two branches we are using merge command
                                                               ==> git checkout to the branch you want that code
                                                               ==>git merge branchname 
 
-some random text
+removed random text
