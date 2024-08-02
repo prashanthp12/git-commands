@@ -35,4 +35,13 @@ git commands
 
 
                          ==> git checkout -b branchname
-                                                     ==> this command will create branch and parallely checkoutv to that particular branch                        
+                                                     ==> this command will create branch and parallely checkoutv to that particular branch   
+
+
+
+if you want to combine two branches we are using merge command
+                                                              ==> merge code steps
+
+                                                              ==> git checkout to the branch you want that code
+                                                              ==>git merge branchname 
+
